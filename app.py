@@ -1,3 +1,5 @@
+import nltk
+nltk.download("punkt")
 # app.py
 
 import streamlit as st
